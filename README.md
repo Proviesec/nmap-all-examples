@@ -15,8 +15,9 @@ If you have any GitHub Dorks, just create a PullRequest.
 # Todos
 
 - [ ] Nmap - Example dir
-- [ ] Nmap for Special cases
-- [ ] Screen examples 
+- [ ] Nmap - Special cases
+- [ ] Nmap - Screen examples 
+- [ ] Good reports
 
 # Tools
 

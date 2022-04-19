@@ -1,8 +1,8 @@
-## Scan port 80 on the target system:
+# Scan port 80 on the target system:
 
 nmap –p 80 192.168.0.1
 
-## Scan ports 1 through 200 on the target system:
+# Scan ports 1 through 200 on the target system:
 
 nmap –p 1-200 192.168.0.1
 
